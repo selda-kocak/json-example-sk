@@ -7,7 +7,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "1 yaşında",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/1.png"
     },
     {
       "isim" : "Safti",
@@ -16,7 +16,8 @@
       "cinsiyet" : "Erkek",
       "yaş"  : "3 yaşında",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/2.png"
+      
     },
     {
       "isim" : "Noodle",
@@ -25,7 +26,7 @@
       "cinsiyet" : "Erkek",
       "yaş"  : "3 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/3.png"
     },
     {
       "isim" : "Fındık",
@@ -34,7 +35,7 @@
       "cinsiyet" : "Erkek",
       "yaş"  : "1 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/4.png"
     },
     {
       "isim" : "Pofuduk",
@@ -43,7 +44,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "1 yaşında",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/5.png"
     },
     {
       "isim" : "Boncuk",
@@ -52,7 +53,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "8 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/6.png"
     },
     {
       "isim" : "Küçük Prens",
@@ -61,7 +62,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "2 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/7.png"
     },
     {
       "isim" : "Kvothe",
@@ -70,7 +71,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "7 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/8.png"
     },
     {
       "isim" : "Mırmır",
@@ -79,7 +80,7 @@
       "cinsiyet" : "Erkek",
       "yaş"  : "3 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/9.png"
     },
     {
       "isim" : "Maviş",
@@ -88,7 +89,7 @@
       "cinsiyet" : "Erkek",
       "yaş"  : "1 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/10.png"
     },
     {
       "isim" : "Köpüş",
@@ -97,7 +98,7 @@
       "cinsiyet" : "Erkek",
       "yaş"  : "9 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/11.png"
     },
     {
       "isim" : "Ceylan",
@@ -106,7 +107,7 @@
       "cinsiyet" : "Erkek",
       "yaş"  : "1 yaşında",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/12.png"
     },
     {
       "isim" : "Çakıl",
@@ -115,7 +116,7 @@
       "cinsiyet" : "Erkek",
       "yaş"  : "2 yaşında",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/13.png"
     },
     {
       "isim" : "Karamel",
@@ -124,7 +125,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "5 yaşında",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/14.png"
     },
     {
       "isim" : "Duman",
@@ -133,7 +134,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "2 yaşında",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/15.png"
     },
     {
       "isim" : "Zeytin",
@@ -142,7 +143,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "11 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/16.png"
     },
     {
       "isim" : "Tarçın",
@@ -151,7 +152,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "4 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/17.png"
     },
     {
       "isim" : "Cesur",
@@ -160,7 +161,7 @@
       "cinsiyet" : "Erkek",
       "yaş"  : "6 yaşında",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/18.png"
     },
     {
       "isim" : "Paşa",
@@ -169,7 +170,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "1 aylık",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/19.png"
     },
     {
       "isim" : "Ela",
@@ -178,7 +179,7 @@
       "cinsiyet" : "Dişi",
       "yaş"  : "2 yaşında",
       "lokasyon" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/20.png"
     }
   ]
 }
