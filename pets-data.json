@@ -1,24 +1,184 @@
 {
   "pets": [
     {
-      "name" : "Purrsloud",
-      "species" : "Cat",
-      "favFoods" : ["wet food", "dry food", "<strong>any</strong> food"],
-      "birthYear" : 2016,
+      "isim" : "Patik",
+      "tür" : "Kedi",
+      "cins" : "Singapur",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "1 yaşında",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
     },
     {
-      "name" : "Barksalot",
-      "species" : "Dog",
-      "birthYear" : 2008,
+      "isim" : "Safti",
+      "tür" : "Kedi",
+      "cins" : "Abyssinian",
+      "cinsiyet" : "Erkek",
+      "yaş"  : "3 yaşında",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
       "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     },
     {
-      "name" : "Meowsalot",
-      "species" : "Cat",
-      "favFoods" : ["tuna", "catnip", "celery"],
-      "birthYear" : 2012,
+      "isim" : "Noodle",
+      "tür" : "Kedi",
+      "cins" : "Tekir",
+      "cinsiyet" : "Erkek",
+      "yaş"  : "3 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
       "photo" : "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    },
+    {
+      "isim" : "Fındık",
+      "tür" : "Kedi",
+      "cins" : "Sarman",
+      "cinsiyet" : "Erkek",
+      "yaş"  : "1 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Pofuduk",
+      "tür" : "Kedi",
+      "cins" : "Norwegian Forest",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "1 yaşında",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Boncuk",
+      "tür" : "Kedi",
+      "cins" : "Tekir",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "8 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Küçük Prens",
+      "tür" : "Kedi",
+      "cins" : "Smokin",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "2 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Kvothe",
+      "tür" : "Kedi",
+      "cins" : "Calico",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "7 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Mırmır",
+      "tür" : "Kedi",
+      "cins" : "Sarman",
+      "cinsiyet" : "Erkek",
+      "yaş"  : "3 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Maviş",
+      "tür" : "Kedi",
+      "cins" : "Tekir",
+      "cinsiyet" : "Erkek",
+      "yaş"  : "1 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Köpüş",
+      "tür" : "Köpek",
+      "cins" : "Melez",
+      "cinsiyet" : "Erkek",
+      "yaş"  : "9 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Ceylan",
+      "tür" : "Köpek",
+      "cins" : "Labrador",
+      "cinsiyet" : "Erkek",
+      "yaş"  : "1 yaşında",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Çakıl",
+      "tür" : "Köpek",
+      "cins" : "Terrier (Fox)",
+      "cinsiyet" : "Erkek",
+      "yaş"  : "2 yaşında",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Karamel",
+      "tür" : "Köpek",
+      "cins" : "Alman Kurdu",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "5 yaşında",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Duman",
+      "tür" : "Köpek",
+      "cins" : "Terrier (Maltese)",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "2 yaşında",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Zeytin",
+      "tür" : "Köpek",
+      "cins" : "Labrador",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "11 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Tarçın",
+      "tür" : "Köpek",
+      "cins" : "Melez",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "4 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Cesur",
+      "tür" : "Köpek",
+      "cins" : "Drahthaar",
+      "cinsiyet" : "Erkek",
+      "yaş"  : "6 yaşında",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Paşa",
+      "tür" : "Köpek",
+      "cins" : "Diğer Irklar",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "1 aylık",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    },
+    {
+      "isim" : "Ela",
+      "tür" : "Köpek",
+      "cins" : "Diğer Irklar",
+      "cinsiyet" : "Dişi",
+      "yaş"  : "2 yaşında",
+      "lokasyon" : "Çiçek Barınağı/Ankara",
+      "photo" : "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
     }
   ]
 }
