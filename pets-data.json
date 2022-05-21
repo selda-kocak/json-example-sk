@@ -7,7 +7,7 @@
       "gender" : "Dişi",
       "age"  : "1 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "history" : "Patik'in rengi beyaz, aşıları tam, hadi onunla tanış! ",
+      "history" : "Patik'in aşıları yok, aşılarının yapılması ve kısırlaştırılması gerekiyor. Hadi, Patik'le tanış! ",
       "photo" : "https://www.upload.ee/image/14160836/1.png"
     },
     {
@@ -17,6 +17,7 @@
       "gender" : "Erkek",
       "age"  : "3 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Safti'nin aşıları tam. Kısırlaştırılmış. Hadi, Safti'yle tanış!",
       "photo" : "https://www.upload.ee/image/14160901/2.png"
       
     },
@@ -27,6 +28,7 @@
       "gender" : "Erkek",
       "age"  : "3 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "İç, dış parazit tedavisi yapılan Noodle'ın veteriner kontrolü yapıldı. Tuvalet eğitimi yok. Hadi Noodle ile tanış!",
       "photo" : "https://www.upload.ee/image/14160903/3.png"
     },
     {
@@ -36,6 +38,7 @@
       "gender" : "Erkek",
       "age"  : "1 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Fındık'ın veteriner kontrolü yapıldı. Halen tuvalet eğitimini almaya çalışıyor. Hadi Fındık ile tanış!",
       "photo" : "https://www.upload.ee/image/14160905/4.png"
     },
     {
@@ -45,6 +48,7 @@
       "gender" : "Dişi",
       "age"  : "1 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Gözleri için damla kullanıyor. Aşıları tam. Kısırlaştırılmış. Hadi Pofuduk ile tanış!",
       "photo" : "https://www.upload.ee/image/14160908/5.png"
     },
     {
@@ -54,6 +58,7 @@
       "gender" : "Dişi",
       "age"  : "8 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Parazit tedavisi görüyor. Aşıları tam. Kısırlaştırılması gerekiyor. Hadi Boncuk ile tanış!",
       "photo" : "https://www.upload.ee/image/14160979/6.png"
     },
     {
@@ -63,6 +68,7 @@
       "gender" : "Dişi",
       "age"  : "2 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Kuru mamaya yeni geçti. Aşıları henüz yok. Kısırlaştırılacak. Hadi Küçük Prens ile tanış!",
       "photo" : "https://www.upload.ee/image/14160984/7.png"
     },
     {
@@ -72,6 +78,7 @@
       "gender" : "Dişi",
       "age"  : "7 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Aşıları tam. Kısırlaştırılacak. Hadi Kvothe ile tanış!",
       "photo" : "https://www.upload.ee/image/14160987/8.png"
     },
     {
@@ -81,6 +88,7 @@
       "gender" : "Erkek",
       "age"  : "3 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Cilt alerjileri mevcut. Tuvalet eğitimi almaya devam ediyor. Kısırlaştırılacak. Hadi Mırmır ile tanış!",
       "photo" : "https://www.upload.ee/image/14160992/9.png"
     },
     {
@@ -90,6 +98,7 @@
       "gender" : "Erkek",
       "age"  : "1 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Tuvalet eğitimi yok. Sağlık sorunu yok. Aşıları tam. Kısırlaştırılacak. Hadi Maviş ile tanış!",
       "photo" : "https://www.upload.ee/image/14160995/10.png"
     },
     {
@@ -99,6 +108,7 @@
       "gender" : "Erkek",
       "age"  : "9 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Tuvalet eğitimi var. Aşıları tam. Kısırlaştırıldı. Hadi Melez ile tanış!",
       "photo" : "https://www.upload.ee/image/14160997/11.png"
     },
     {
@@ -108,6 +118,7 @@
       "gender" : "Erkek",
       "age"  : "1 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Parazitlerle ilgili ufak tedavisi devam ediyor. Aşıları tam. Kısırlaştırılacak. Hadi Ceylan ile tanış!",
       "photo" : "https://www.upload.ee/image/14160998/12.png"
     },
     {
@@ -117,6 +128,7 @@
       "gender" : "Erkek",
       "age"  : "2 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Aşıları tam. Kısırlaştırılacak. Kedilerle iyi anlaşır. Hadi Çakıl ile tanış!",
       "photo" : "https://www.upload.ee/image/14161001/13.png"
     },
     {
@@ -126,6 +138,7 @@
       "gender" : "Dişi",
       "age"  : "5 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "İç parazitlerle ilgili tedavisi yapılıyor. Aşıları tam. Kısırlaştırılmış. Hadi Karamel ile tanış!",
       "photo" : "https://www.upload.ee/image/14161002/14.png"
     },
     {
@@ -135,6 +148,7 @@
       "gender" : "Dişi",
       "age"  : "2 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Mide iltihabı tedavisi görüyor. Aşıları tam. Kısırlaştırılmış. Hadi Duman ile tanış!",
       "photo" : "https://www.upload.ee/image/14161003/15.png"
     },
     {
@@ -144,6 +158,7 @@
       "gender" : "Dişi",
       "age"  : "11 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Aşıları tam. Tuvalet eğitimi var. Kısırlaştırılacak. Hadi Zeytin ile tanış!",
       "photo" : "https://www.upload.ee/image/14161005/16.png"
     },
     {
@@ -153,6 +168,7 @@
       "gender" : "Dişi",
       "age"  : "4 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Tuvalet eğitimi devam ediyor.Aşıları tam. Kısırlaştırılacak. Hadi Tarçın ile tanış!",
       "photo" : "https://www.upload.ee/image/14161007/17.png"
     },
     {
@@ -162,6 +178,7 @@
       "gender" : "Erkek",
       "age"  : "6 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Eklem iltihabı var. Aşıları tam. Kısırlaştırılmış. Hadi Cesur ile tanış!",
       "photo" : "https://www.upload.ee/image/14161009/18.png"
     },
     {
@@ -171,6 +188,7 @@
       "gender" : "Dişi",
       "age"  : "1 aylık",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Tuvalet eğitimi yok. Aşıları tam. Kısırlaştırılacak. Hadi Paşa ile tanış!",
       "photo" : "https://www.upload.ee/image/14161010/19.png"
     },
     {
@@ -180,6 +198,7 @@
       "gender" : "Dişi",
       "age"  : "2 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Aşıları tam. Kısırlaştırılmış. Oyun oynamayı çok seviyor. Hadi Ela ile tanış!",
       "photo" : "https://www.upload.ee/image/14161011/20.png"
     }
   ]
