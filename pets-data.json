@@ -7,7 +7,8 @@
       "gender" : "Dişi",
       "age"  : "1 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/1.png"
+      "history" : "Patik'in rengi beyaz, aşıları tam, hadi onunla tanış! ",
+      "photo" : "https://www.canva.com/design/DAFA_JLEpZc/view"
     },
     {
       "name" : "Safti",
@@ -77,7 +78,7 @@
       "name" : "Mırmır",
       "type" : "Kedi",
       "cins" : "Sarman",
-      "age" : "Erkek",
+      "gender" : "Erkek",
       "age"  : "3 aylık",
       "location" : "Çiçek Barınağı/Ankara",
       "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/9.png"
