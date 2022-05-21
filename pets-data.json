@@ -17,7 +17,7 @@
       "gender" : "Erkek",
       "age"  : "3 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://www.github.com/selda-kocak/json-example-sk/blob/master/images/2.png"
+      "photo" : "https://www.upload.ee/image/14160901/2.png"
       
     },
     {
@@ -27,7 +27,7 @@
       "gender" : "Erkek",
       "age"  : "3 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/3.png"
+      "photo" : "https://www.upload.ee/image/14160903/3.png"
     },
     {
       "name" : "Fındık",
@@ -36,7 +36,7 @@
       "gender" : "Erkek",
       "age"  : "1 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/4.png"
+      "photo" : "https://www.upload.ee/image/14160905/4.png"
     },
     {
       "name" : "Pofuduk",
@@ -45,7 +45,7 @@
       "gender" : "Dişi",
       "age"  : "1 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/5.png"
+      "photo" : "https://www.upload.ee/image/14160908/5.png"
     },
     {
       "name" : "Boncuk",
@@ -54,7 +54,7 @@
       "gender" : "Dişi",
       "age"  : "8 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/6.png"
+      "photo" : "https://www.upload.ee/image/14160979/6.png"
     },
     {
       "name" : "Küçük Prens",
@@ -63,7 +63,7 @@
       "gender" : "Dişi",
       "age"  : "2 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/7.png"
+      "photo" : "https://www.upload.ee/image/14160984/7.png"
     },
     {
       "name" : "Kvothe",
@@ -72,7 +72,7 @@
       "gender" : "Dişi",
       "age"  : "7 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/8.png"
+      "photo" : "https://www.upload.ee/image/14160987/8.png"
     },
     {
       "name" : "Mırmır",
@@ -81,7 +81,7 @@
       "gender" : "Erkek",
       "age"  : "3 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/9.png"
+      "photo" : "https://www.upload.ee/image/14160992/9.png"
     },
     {
       "name" : "Maviş",
@@ -90,7 +90,7 @@
       "gender" : "Erkek",
       "age"  : "1 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/10.png"
+      "photo" : "https://www.upload.ee/image/14160995/10.png"
     },
     {
       "name" : "Köpüş",
@@ -99,7 +99,7 @@
       "gender" : "Erkek",
       "age"  : "9 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/11.png"
+      "photo" : "https://www.upload.ee/image/14160997/11.png"
     },
     {
       "name" : "Ceylan",
@@ -108,7 +108,7 @@
       "gender" : "Erkek",
       "age"  : "1 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/12.png"
+      "photo" : "https://www.upload.ee/image/14160998/12.png"
     },
     {
       "name" : "Çakıl",
@@ -117,7 +117,7 @@
       "gender" : "Erkek",
       "age"  : "2 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/13.png"
+      "photo" : "https://www.upload.ee/image/14161001/13.png"
     },
     {
       "name" : "Karamel",
@@ -126,7 +126,7 @@
       "gender" : "Dişi",
       "age"  : "5 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/14.png"
+      "photo" : "https://www.upload.ee/image/14161002/14.png"
     },
     {
       "name" : "Duman",
@@ -135,7 +135,7 @@
       "gender" : "Dişi",
       "age"  : "2 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/15.png"
+      "photo" : "https://www.upload.ee/image/14161003/15.png"
     },
     {
       "name" : "Zeytin",
@@ -144,7 +144,7 @@
       "gender" : "Dişi",
       "age"  : "11 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/16.png"
+      "photo" : "https://www.upload.ee/image/14161005/16.png"
     },
     {
       "name" : "Tarçın",
@@ -153,7 +153,7 @@
       "gender" : "Dişi",
       "age"  : "4 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/17.png"
+      "photo" : "https://www.upload.ee/image/14161007/17.png"
     },
     {
       "name" : "Cesur",
@@ -162,7 +162,7 @@
       "gender" : "Erkek",
       "age"  : "6 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/18.png"
+      "photo" : "https://www.upload.ee/image/14161009/18.png"
     },
     {
       "name" : "Paşa",
@@ -171,7 +171,7 @@
       "gender" : "Dişi",
       "age"  : "1 aylık",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/19.png"
+      "photo" : "https://www.upload.ee/image/14161010/19.png"
     },
     {
       "name" : "Ela",
@@ -180,7 +180,7 @@
       "gender" : "Dişi",
       "age"  : "2 yaşında",
       "location" : "Çiçek Barınağı/Ankara",
-      "photo" : "https://github.com/selda-kocak/json-example-sk/blob/master/images/20.png"
+      "photo" : "https://www.upload.ee/image/14161011/20.png"
     }
   ]
 }
