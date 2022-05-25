@@ -3,6 +3,7 @@
     {
       "name" : "Huzur Barınağı",
       "type" : "shelter",
+      "city" : "Ankara",
       "location" : "Lavanta Mah. Lale Sokak No:11 Ankara",
       "IBAN"  : "TR00 000000000000000000",
       "history" : "2013 yılında kurulan Huzur Barınağı hayvan dostlarımıza hız kesmeden yardıma devam ediyor. Sen de Huzur Barınağı'na bağış yaparak ya da mama/tıbbi malzeme ihtiyacı göndererek katkıda bulunabilirsin.",
@@ -11,6 +12,7 @@
     {
       "name" : "Umut Barınağı",
       "type" : "shelter",
+      "city" : "İstanbul",
       "location" : "Gül Mah. Nilüfer Sokak No:12 İstanbul",
       "IBAN"  : "TR11 111111111111111111",
       "history" : "2013 yılında kurulan Umut Barınağı hayvan dostlarımıza hız kesmeden yardıma devam ediyor. Sen de Umut Barınağı'na bağış yaparak ya da mama/tıbbi malzeme ihtiyacı göndererek katkıda bulunabilirsin.",
@@ -19,6 +21,7 @@
     {
       "name" : "Eflatun Barınağı",
       "type" : "shelter",
+      "city" : "Bursa",
       "location" : "Nergis Mah. Zambak Sokak No:13 Bursa",
       "IBAN"  : "TR22 222222222222222222",
       "history" : "2010 yılında kurulan Eflatun Barınağı hayvan dostlarımıza hız kesmeden yardıma devam ediyor. Sen de Eflatun Barınağı'na bağış yaparak ya da mama/tıbbi malzeme ihtiyacı göndererek katkıda bulunabilirsin.",
@@ -27,6 +30,7 @@
     {
       "name" : "Lotus Barınağı",
       "type" : "shelter",
+      "city" : "Zonguldak",
       "location" : "Sümbül Mah. Papatya Sokak No:18 Zonguldak",
       "IBAN"  : "TR22 222222222222222222",
       "history" : "2015 yılında kurulan Lotus Barınağı hayvan dostlarımıza hız kesmeden yardıma devam ediyor. Sen de Lotus Barınağı'na bağış yaparak ya da mama/tıbbi malzeme ihtiyacı göndererek katkıda bulunabilirsin.",
@@ -35,6 +39,7 @@
     {
       "name" : "Lavinya Barınağı",
       "type" : "shelter",
+      "city" : "Elazığ",
       "location" : "Leylak Mah. Karanfil Sokak No:12 Elazığ",
       "IBAN"  : "TR33 333333333333333333",
       "history" : "2017 yılında kurulan Lavinya Barınağı hayvan dostlarımıza hız kesmeden yardıma devam ediyor. Sen de Lavinya Barınağı'na bağış yaparak ya da mama/tıbbi malzeme ihtiyacı göndererek katkıda bulunabilirsin.",
