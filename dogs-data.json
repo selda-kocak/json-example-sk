@@ -1,0 +1,104 @@
+{
+  "pets": [
+    {
+      "name" : "Köpüş",
+      "type" : "Köpek",
+      "cins" : "Melez",
+      "gender" : "Erkek",
+      "age"  : "9 aylık",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Tuvalet eğitimi var. Aşıları tam. Kısırlaştırıldı. Hadi Melez ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163005/WhatsApp_Image_2022-05-22_at_4.58.32_PM.jpeg"
+    },
+    {
+      "name" : "Ceylan",
+      "type" : "Köpek",
+      "cins" : "Labrador",
+      "gender" : "Erkek",
+      "age"  : "1 yaşında",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Parazitlerle ilgili ufak tedavisi devam ediyor. Aşıları tam. Kısırlaştırılacak. Hadi Ceylan ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163007/WhatsApp_Image_2022-05-22_at_4.58.33_PM__1_.jpeg"
+    },
+    {
+      "name" : "Çakıl",
+      "type" : "Köpek",
+      "cins" : "Terrier (Fox)",
+      "gender" : "Erkek",
+      "age"  : "2 yaşında",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Aşıları tam. Kısırlaştırılacak. Kedilerle iyi anlaşır. Hadi Çakıl ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163010/WhatsApp_Image_2022-05-22_at_4.58.33_PM__2_.jpeg"
+    },
+    {
+      "name" : "Karamel",
+      "type" : "Köpek",
+      "cins" : "Alman Kurdu",
+      "gender" : "Dişi",
+      "age"  : "5 yaşında",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "İç parazitlerle ilgili tedavisi yapılıyor. Aşıları tam. Kısırlaştırılmış. Hadi Karamel ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163012/WhatsApp_Image_2022-05-22_at_4.58.33_PM.jpeg"
+    },
+    {
+      "name" : "Duman",
+      "type" : "Köpek",
+      "cins" : "Terrier (Maltese)",
+      "gender" : "Dişi",
+      "age"  : "2 yaşında",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Mide iltihabı tedavisi görüyor. Aşıları tam. Kısırlaştırılmış. Hadi Duman ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163014/WhatsApp_Image_2022-05-22_at_4.58.34_PM__1_.jpeg"
+    },
+    {
+      "name" : "Zeytin",
+      "type" : "Köpek",
+      "cins" : "Labrador",
+      "gender" : "Dişi",
+      "age"  : "11 aylık",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Aşıları tam. Tuvalet eğitimi var. Kısırlaştırılacak. Hadi Zeytin ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163015/WhatsApp_Image_2022-05-22_at_4.58.34_PM__2_.jpeg"
+    },
+    {
+      "name" : "Tarçın",
+      "type" : "Köpek",
+      "cins" : "Melez",
+      "gender" : "Dişi",
+      "age"  : "4 aylık",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Tuvalet eğitimi devam ediyor.Aşıları tam. Kısırlaştırılacak. Hadi Tarçın ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163016/WhatsApp_Image_2022-05-22_at_4.58.34_PM__3_.jpeg"
+    },
+    {
+      "name" : "Cesur",
+      "type" : "Köpek",
+      "cins" : "Drahthaar",
+      "gender" : "Erkek",
+      "age"  : "6 yaşında",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Eklem iltihabı var. Aşıları tam. Kısırlaştırılmış. Hadi Cesur ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163018/WhatsApp_Image_2022-05-22_at_4.58.34_PM.jpeg"
+    },
+    {
+      "name" : "Paşa",
+      "type" : "Köpek",
+      "cins" : "Diğer Irklar",
+      "gender" : "Dişi",
+      "age"  : "1 aylık",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Tuvalet eğitimi yok. Aşıları tam. Kısırlaştırılacak. Hadi Paşa ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163021/WhatsApp_Image_2022-05-22_at_4.58.35_PM__1_.jpeg"
+    },
+    {
+      "name" : "Ela",
+      "type" : "Köpek",
+      "cins" : "Diğer Irklar",
+      "gender" : "Dişi",
+      "age"  : "2 yaşında",
+      "location" : "Çiçek Barınağı/Ankara",
+      "history" : "Sağlık sorunu yok. Aşıları tam. Kısırlaştırılmış. Oyun oynamayı çok seviyor. Hadi Ela ile tanış!",
+      "photo" : "https://www.upload.ee/image/14163022/WhatsApp_Image_2022-05-22_at_4.58.35_PM.jpeg"
+    }
+  ]
+}
